@@ -1,4 +1,4 @@
-package binarysearch
+package partone.binarysearch
 
 
 fun <T, A : Comparable<A>> List<T>.binaryFind(key: T, transform: (T) -> A): T? {

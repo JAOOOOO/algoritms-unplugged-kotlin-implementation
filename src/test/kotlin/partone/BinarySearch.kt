@@ -1,4 +1,6 @@
-import binarysearch.binaryFind
+package partone
+
+import partone.binarysearch.binaryFind
 import kotlin.test.Test
 import kotlin.test.*
 class BinarySearch {
