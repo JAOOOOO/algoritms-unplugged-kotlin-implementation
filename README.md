@@ -11,3 +11,4 @@ I'll be careful to keep the language used in the book, so it could be easier.
 - ###### Binary Search (Recursive)
 - ###### Insertion Sort
 - ###### Merge Sort
+- ###### Quick Sort
